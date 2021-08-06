@@ -6,3 +6,4 @@ Repository with all the material developed during the specialization in applied 
 Automl-datasets-ml-models
 
 * [Week 1](https://github.com/esjerome/aws_data/blob/main/automl-datasets-ml-models/week_1/C1_W1_Assignment.ipynb)
+* [Week 2](https://github.com/esjerome/aws_data/blob/main/automl-datasets-ml-models/week_2/C1_W2_Assignment.ipynb)
